@@ -20,7 +20,7 @@
     minor: 4
     patch: 2113
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\bbepis-BepInExPack\5.4.2113\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: RiskofThunder-HookGenPatcher
   authorName: RiskofThunder
@@ -41,7 +41,7 @@
     minor: 2
     patch: 3
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\RiskofThunder-HookGenPatcher\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: tristanmcpherson-R2API
   authorName: tristanmcpherson
@@ -85,7 +85,7 @@
     minor: 0
     patch: 5
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\tristanmcpherson-R2API\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: MagnusMagnuson-BiggerBazaar
   authorName: MagnusMagnuson
@@ -108,7 +108,7 @@
     minor: 13
     patch: 13
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\MagnusMagnuson-BiggerBazaar\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: Moffein-ItemStats
   authorName: Moffein
@@ -131,7 +131,7 @@
     minor: 3
     patch: 1
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\Moffein-ItemStats\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: FunkFrog-and-Sipondo-ShareSuite
   authorName: FunkFrog-and-Sipondo
@@ -155,7 +155,7 @@
     minor: 8
     patch: 0
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\FunkFrog-and-Sipondo-ShareSuite\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: ThinkInvis-TILER2
   authorName: ThinkInvis
@@ -182,7 +182,7 @@
     minor: 4
     patch: 0
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\ThinkInvis-TILER2\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: ThinkInvis-ClassicItems
   authorName: ThinkInvis
@@ -205,7 +205,7 @@
     minor: 1
     patch: 0
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\ThinkInvis-ClassicItems\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: KingEnderBrine-ProperSave
   authorName: KingEnderBrine
@@ -227,7 +227,7 @@
     minor: 8
     patch: 11
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\KingEnderBrine-ProperSave\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: TheTimesweeper-SillyItems
   authorName: TheTimesweeper
@@ -248,7 +248,7 @@
     minor: 2
     patch: 2
   enabled: false
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\TheTimesweeper-SillyItems\1.2.2\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: egpimp-EggsUtils
   authorName: egpimp
@@ -273,7 +273,7 @@
     minor: 2
     patch: 2
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\egpimp-EggsUtils\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: egpimp-EggsSkills
   authorName: egpimp
@@ -300,7 +300,7 @@
     minor: 3
     patch: 1
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\egpimp-EggsSkills\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: Faustvii-QoLChests
   authorName: Faustvii
@@ -323,7 +323,7 @@
     minor: 1
     patch: 8
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\Faustvii-QoLChests\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: Rune580-Risk_Of_Options
   authorName: Rune580
@@ -366,7 +366,7 @@
     minor: 4
     patch: 1
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\duckduckgreyduck-ArtificerExtended\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: XoXFaby-BetterUI
   authorName: XoXFaby
@@ -390,7 +390,7 @@
     minor: 7
     patch: 9
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\XoXFaby-BetterUI\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: Moffein-Engi_M1_Autofire
   authorName: Moffein
@@ -413,7 +413,7 @@
     minor: 2
     patch: 0
   enabled: false
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Moffein-Engi_M1_Autofire\1.2.0\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: AceOfShades-QuickRestart
   authorName: AceOfShades
@@ -435,7 +435,7 @@
     minor: 4
     patch: 2
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\AceOfShades-QuickRestart\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: Bubbet-ZioConfigFile
   authorName: Bubbet
@@ -456,7 +456,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\Bubbet-ZioConfigFile\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: Bubbet-ZioRiskOfOptions
   authorName: Bubbet
@@ -479,7 +479,7 @@
     minor: 0
     patch: 0
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\Bubbet-ZioRiskOfOptions\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: Lodington-Thiccify
   authorName: Lodington
@@ -500,7 +500,7 @@
     minor: 0
     patch: 6
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\Lodington-Thiccify\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: kinggrinyov-KingModUtilities
   authorName: kinggrinyov
@@ -522,7 +522,7 @@
     minor: 8
     patch: 1
   enabled: false
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\kinggrinyov-KingModUtilities\1.8.1\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: kinggrinyov-Goku
   authorName: kinggrinyov
@@ -546,7 +546,7 @@
     minor: 12
     patch: 0
   enabled: false
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\kinggrinyov-Goku\2.12.0\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: Lodington-Aerolt
   authorName: Lodington
@@ -568,7 +568,7 @@
     minor: 0
     patch: 7
   enabled: false
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\Lodington-Aerolt\4.0.7\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: EnforcerGang-Enforcer
   authorName: EnforcerGang
@@ -597,7 +597,7 @@
     minor: 7
     patch: 4
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\EnforcerGang-Enforcer\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: jenwalter-FasterScrapper
   authorName: jenwalter
@@ -620,7 +620,7 @@
     minor: 1
     patch: 0
   enabled: false
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\jenwalter-FasterScrapper\1.1.0\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: TeamMoonstorm-MoonstormSharedUtils
   authorName: TeamMoonstorm
@@ -652,7 +652,7 @@
     minor: 5
     patch: 5
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\TeamMoonstorm-MoonstormSharedUtils\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: TeamMoonstorm-Starstorm2
   authorName: TeamMoonstorm
@@ -679,7 +679,7 @@
     minor: 4
     patch: 5
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\TeamMoonstorm-Starstorm2\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: TheRealElysium-Faster3DPrinters
   authorName: TheRealElysium
@@ -700,7 +700,7 @@
     minor: 0
     patch: 0
   enabled: false
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\cache\TheRealElysium-Faster3DPrinters\1.0.0\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: Felda-Actually_Faster
   authorName: Felda
@@ -721,7 +721,7 @@
     minor: 0
     patch: 8
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\Felda-Actually_Faster\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: RiskofThunder-R2API_Core
   authorName: RiskofThunder
@@ -743,7 +743,7 @@
     minor: 0
     patch: 10
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\RiskofThunder-R2API_Core\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: RiskofThunder-R2API_Colors
   authorName: RiskofThunder
@@ -766,7 +766,7 @@
     minor: 0
     patch: 1
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\RiskofThunder-R2API_Colors\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: RiskofThunder-R2API_Unlockable
   authorName: RiskofThunder
@@ -790,7 +790,7 @@
     minor: 0
     patch: 2
   enabled: true
-  icon: C:\Users\kleme\AppData\Roaming\r2modmanPlus-local\RiskOfRain2\profiles\FUN\BepInEx\plugins\RiskofThunder-R2API_Unlockable\icon.png
+  icon: C:\
 - manifestVersion: 1
   name: RiskofThunder-R2API_TempVisualEffect
   authorName: RiskofThunder
